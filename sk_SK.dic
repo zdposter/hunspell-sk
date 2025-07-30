@@ -1,4 +1,4 @@
-159799
+159784
 a	 po:conjunction
 á	 po:interjection
 Á	 po:interjection
@@ -17250,34 +17250,29 @@ dobiedzavosť/K po:noun is:feminine
 dobiedzavý/YN po:adjective
 dobiehanie/V po:noun is:neuter
 dobiehať/XN po:verb
-dobiela
-dobier
+dobiela	 po:adverb
 dobierka/zZ po:noun is:feminine
 dobierkový/Y po:adjective
-dobíjaná
-dobíjané
 dobíjanie/V po:noun is:neuter
+dobíjaný/YN po:adjective
 dobíjať/XN po:verb
 dobiť/WN po:verb
-dobitia
-dobitie
-dobitiu
+dobitie/V po:noun is:neuter
 dobitý/Y po:adjective
 ďobkať/EN po:verb
-dobleda
+dobleda	 po:adverb
 ďobnúť/WN po:verb
 dobo
 doboč
-dobodaného
+dobodaný/YN po:adjective
 dobodať/EN po:verb
 doboha	 po:adverb
 dobojovaný/YN po:adjective
 dobojovať/WN po:verb
 doboka	 po:adverb
-dobordinec
 doboška/zZ po:noun is:feminine
 dobove/N po:adverb
-dobovo
+dobovo	 po:adverb
 dobovosť/K po:noun is:feminine
 dobový/YN po:adjective
 dobráckosť/K po:noun is:feminine
@@ -17285,17 +17280,11 @@ dobrácky/YN po:adjective
 dobráctvach
 dobráctvam
 dobráctvo/M po:noun is:neuter
-dobráčisk
-dobráčiská
-dobráčiskách
-dobráčiskám
-dobráčisko/c po:noun is:masculine
+dobráčisko/M po:noun is:neuter
 dobráčiskov/Y po:adjective
-dobráčisku
 dobráčka/zZ po:noun is:feminine
 dobrák/C po:noun is:masculine
 dobrákov/Y po:adjective
-dobraného
 dobranie/V po:noun is:neuter
 dobrať/RN po:verb
 dobŕdať
@@ -17303,19 +17292,16 @@ dobreže
 Dobriansky
 dobrista/H po:noun is:masculine
 dobristov/Y po:adjective
-Dobrman
 dobro/M po:noun is:neuter
 dobrobyt/B po:noun is:masculine
 dobrobytmi
 Dobroč
-dobročinne
+dobročinne	 po:adverb
 dobročinnosť/K po:noun is:feminine
 dobročinný/YN po:adjective
-dobrodej
+dobrodej/C po:noun is:masculine
 dobrodejný/YN po:adjective
 dobrodenie/V po:noun is:neuter
-dobrodil
-dobrodila
 dobrodincov/Y po:adjective
 dobrodinec/C po:noun is:masculine
 dobrodinka/zZ po:noun is:feminine
@@ -17330,19 +17316,18 @@ dobrodušnosť/K po:noun is:feminine
 dobrodušný/YN po:adjective
 Dobrohošť
 Dobrohošti
-dobrojil
-dobrojila
-Dobromil
+Dobromil/c po:noun is:masculine
 Dobromila/zZ po:noun is:feminine
-Dobromír
+Dobromír/c po:noun is:masculine
 dobromyseľne/N po:adverb
 dobromyseľnosť/K po:noun is:feminine
 dobromyseľný/YN po:adjective
 dobronivský/Y po:adjective
-dobronzova
+dobronzova	 po:adverb
 dobropis/B po:noun is:masculine
+dobropisovanie/V po:noun is:neuter
 dobroprajne/N po:adverb
-dobroprajník
+dobroprajník/C po:noun is:masculine
 dobroprajnosť/K po:noun is:feminine
 dobroprajný/Y po:adjective
 dobrorečenie/V po:noun is:neuter
@@ -17357,7 +17342,7 @@ dobrota/zZ po:noun is:feminine
 dobrotivo/N po:adverb
 dobrotivosť/K po:noun is:feminine
 dobrotivý/YN po:adjective
-Dobrovodský/YN po:adjective
+dobrovodský/YN po:adjective
 dobrovoľne	 po:adverb
 dobrovoľnícky/YN po:adjective
 dobrovoľníctvo/M po:noun is:neuter
